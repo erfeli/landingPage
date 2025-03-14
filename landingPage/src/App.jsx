@@ -10,14 +10,13 @@ function App() {
   return (
     <>
       <NavigationBar />
-      <Jumbotron />cd       
+      <Jumbotron />
       <div className="row">
-                <Card />
-                <Card />
-                <Card />
-                <Card />
-            </div>
-           
+        <Card />
+        <Card />
+        <Card />
+        <Card />
+      </div>
       <Footer />
     </>
   )
