@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <NavigationBar />
-      <Jumbotron />      
+      <Jumbotron />cd       
       <div className="row">
                 <Card />
                 <Card />
